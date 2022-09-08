@@ -12,6 +12,7 @@
   </a>
 </div>
 ---
+
 ### 👨‍💻 About me
 I'm a Data Platform Engineer from Norway
 - 🖼️ I’m currently working on building a data platform in Azure using Databricks, dbt, Azure DevOps, ADF and Terraform/Terragrunt
