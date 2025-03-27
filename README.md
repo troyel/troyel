@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About me
 I'm a Data Platform Engineer from Norway
-- 🖼️ I’m currently working on building a data platform in Azure using Databricks, dbt, Azure DevOps, ADF and Terraform/Terragrunt
+- 🖼️ I’m enjoy building fine data platforms using exciting and sensible tools and technologies
 - ⚡ Co-founder of [Glitni](https://glitni.no)
 - 💬 Ask me about data platforms, strategy games (terraforming mars), choral music
 
