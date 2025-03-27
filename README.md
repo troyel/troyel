@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About me
 I'm a Data Platform Engineer from Norway
-- 🖼️ I’m enjoy building fine data platforms using exciting and sensible tools and technologies
+- 🖼️ I'm enjoying myself building and supporting fine data platforms and data teams using exciting tools and technologies
 - ⚡ Co-founder of [Glitni](https://glitni.no)
 - 💬 Ask me about data platforms, strategy games (terraforming mars), choral music
 
